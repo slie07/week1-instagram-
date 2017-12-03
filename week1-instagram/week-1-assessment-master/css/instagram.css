@@ -1,0 +1,102 @@
+body {
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #FFF;
+  background-image: url("images/blue-background.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  margin: 20px 200px;
+  padding: 20px;
+  width: 80%;
+}
+
+footer a {
+  padding: 10px;
+  font-size: 10px;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #1c5380;
+  font-weight: bold;
+}
+
+footer span {
+  font-size:  10px;
+  color: gray;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+.wrapper {
+  width: 70%;
+  margin: 150px auto;
+}
+
+.maintop {
+  float:right;
+  width:600px;
+  display: inline-block;
+}
+
+.brand {
+  align: left;
+  margin: 15px 0;
+  
+}
+
+button {
+    background: linear-gradient(bottom, rgba(6,54,95,4),rgba(28,83,128,1));
+    background: -webkit-linear-gradient(bottom, rgba(6,54,95,.8),rgba(28,83,128,.2));
+    background: -moz-linear-gradient(bottom, rgba(6,54,95,4),rgba(28,83,128,1));
+    border: 1px solid #06365f;
+    border-radius: 5px;
+    color: white;
+    margin: 35px 10px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}
+
+button img {
+  padding: 0px;
+  float: left;
+}
+
+button span {
+  padding: 0px 10px;
+}
+
+.phones {
+  float: left;
+}
+
+.main {
+  background-image: url("images/frame.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 500px;
+  padding: 10px 50px;
+  float: right;
+}
+
+.badges {
+  margin: 10px;
+}
+
+h1 {
+  font-weight: 22em;
+  color: #06365f;
+}
+
+
+p {
+  font-weight: 10em;
+}
