@@ -5,7 +5,7 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
 }
-
+ /*setting the main footer margin and padding*/
 footer {
   clear: both;
   align: center;
@@ -14,6 +14,7 @@ footer {
   width: 80%;
 }
 
+/*setting the footer a to be more align*/ 
 footer a {
   padding: 10px;
   font-size: 10px;
@@ -24,6 +25,7 @@ footer a {
   font-weight: bold;
 }
 
+/*setting the span align and margin*/ 
 footer span {
   font-size:  10px;
   color: gray;
